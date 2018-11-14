@@ -1,0 +1,15 @@
+body {
+  background: #535640; font-family: courier; color: #b49d80;}
+
+h1{text-align: center; width: 100%; font-family: courier; color: #bcab90;}
+.table td {text-align: center;}
+
+.form-control {display: inline-block;width: 250px;margin-top: 50px;}
+
+/* For Pagination */
+.pagination a {color: black;float: left;padding: 8px 16px;text-decoration: none;transition: background-color .3s;}
+
+/* Style the current link */
+.pagination a.active {background-color: #4CAF50;color: white;}
+.pagination a:hover:not(.active) {background-color: #ddd;}
+
